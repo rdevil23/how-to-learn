@@ -2,7 +2,7 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
-  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
   color: #000;
 }
 
@@ -285,7 +285,6 @@
   margin: 0 auto;
   padding-top: 60px;
   padding-bottom: 40px;
-  width: 90%;
 }
 
 .footer__column_content_copyright {
@@ -318,9 +317,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-}
-
-.footer__column-links {
   display: flex;
   flex-direction: column;
   margin-top: 20px;
